@@ -364,9 +364,9 @@
             
             <tag> spring-boot </tag>
             
-            <tag> spring </tag>
-            
             <tag> log4j </tag>
+            
+            <tag> spring </tag>
             
         </tags>
       
